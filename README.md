@@ -13,9 +13,9 @@ The unzipped folder will have the following files.
 
 Target Variable: Price
 
-#Evaluation
+# Evaluation
 The leaderboard is evaluated using RMSLE for the participant’s submission.
 
-#Leaderboard
+# Leaderboard
 ## Secured rank - 10th
 ![](leaderboard.png)
