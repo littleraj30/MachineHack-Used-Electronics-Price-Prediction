@@ -12,3 +12,10 @@ The unzipped folder will have the following files.
     Sample Submission – Sample format for the submission.
 
 Target Variable: Price
+
+#Evaluation
+The leaderboard is evaluated using RMSLE for the participant’s submission.
+
+#Leaderboard
+## Secured rank - 10th
+![](leaderboard.png)
